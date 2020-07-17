@@ -39,7 +39,7 @@ Technical test, which consists of a list of banks, to demonstrate skills for the
 * Async-storage
 
 
-###Final sample
+##Final sample
 
 
 <img src="https://res.cloudinary.com/dhgfid3ej/image/upload/v1595028955/Screen_Shot_2020-07-17_at_18.34.37_r6qcbm.png" width="250" height="450">
