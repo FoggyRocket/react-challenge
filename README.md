@@ -41,8 +41,8 @@ Technical test, which consists of a list of banks, to demonstrate skills for the
 
 ###Final sample
 
-![App iOS.](https://res.cloudinary.com/dhgfid3ej/image/upload/v1595028955/Screen_Shot_2020-07-17_at_18.34.37_r6qcbm.png =250x)
+![App iOS.](https://res.cloudinary.com/dhgfid3ej/image/upload/v1595028955/Screen_Shot_2020-07-17_at_18.34.37_r6qcbm.png){:height="50%" width="50%"}
 
-![App Android](https://res.cloudinary.com/dhgfid3ej/image/upload/v1595028954/Screen_Shot_2020-07-17_at_18.35.39_ojmy1z.png =250x)
+![App Android](https://res.cloudinary.com/dhgfid3ej/image/upload/v1595028954/Screen_Shot_2020-07-17_at_18.35.39_ojmy1z.png){:height="50%" width="50%"}
 
 Happy Coding! :heart:
